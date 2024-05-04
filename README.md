@@ -1,1 +1,3 @@
-For this project we are going to work on HTML basics and make a recipe page.
+# odin project
+
+This is a collection of work related to The Odin Project.
